@@ -1,4 +1,4 @@
-# Horiseon-refactor homework 1
+# Horiseon-refactor
 https://jay-luna.github.io/Horiseon-refactor/
 
 ## Description
