@@ -19,4 +19,4 @@ N/A
 
 ## License
 
-N/A
+© 2023 Horiseon Social Solution Services, Inc.
