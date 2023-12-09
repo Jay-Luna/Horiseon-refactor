@@ -3,7 +3,7 @@ https://jay-luna.github.io/Horiseon-refactor/
 
 ## Description
 
-This is Horiseon-refactor homework 1. I refactored an existing website and made it more accessible by using what I've learned in module 1 (html, CSS, JavaScript). This homework also allowed me to practice cloning & pushing it to Github.
+This is Horiseon-refactor homework 1. I refactored an existing website and made it more accessible by using what I've learned in module 1 (html, CSS, JavaScript). This homework also allowed me to practice cloning & pushing it to Github + Github page.
 
 ## Installation
 
@@ -15,8 +15,7 @@ N/A
 
 ## Credits
 
-N/A
+Contributor: Jeah Telebrico
 
-## License
 
-© 2023 Horiseon Social Solution Services, Inc.
+
