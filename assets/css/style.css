@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* header */
+/* header section*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,16 +18,16 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+h1 .seo {
     color: #d9dcd6;
 }
 
-header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,11 +36,11 @@ header nav {
 }
 
 /* navigation list attributes */
-header nav ul {
+nav ul {
     list-style-type: none;
 }
 
-header nav ul li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -75,14 +75,14 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 /* aside-right content box here */
-.benefits {
+aside {
     margin-right: 30px;
     padding: 20px;
     clear: both;
@@ -93,24 +93,24 @@ p {
     background-color: #2589bd;
 }
 
-.benefits-box {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits-box h3 {
+aside section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits-box img {
+aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 /* Horizontal content box */
-.info-box {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -119,11 +119,11 @@ p {
     color: #ffffff;
 }
 
-.info-box img {
+main section img {
     max-height: 200px;
 }
 
-.info-box h2 {
+main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
